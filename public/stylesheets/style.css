@@ -1,8 +1,18 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: 'Bebas Neue', cursive;
+  font: 30px;
+  color: rgb(166, 16, 41)
 }
 
 a {
-  color: #00B7FF;
+  color: rgb(8, 27, 88);
+}
+
+h1 {
+  color: rgb(166, 16, 41);
+}
+
+h3 {
+  color: rgb(166, 16, 41);
 }
